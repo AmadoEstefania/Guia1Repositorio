@@ -12,7 +12,7 @@ private int precio;
     }
 
     public void setPrecio(int precio) {
-        this.precio = precio;
+        this.precio = precio
     }
     
 }
