@@ -9,7 +9,7 @@ package guia1repositorio;
  *
  * @author Erni
  */
-public class Guia1Repositorio {
+public class Cristian {
 
     /**
      * @param args the command line arguments

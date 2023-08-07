@@ -2,6 +2,6 @@
 package guia1repositorio;
 
 
-public class Cristian {
+public class Rodri {
 
 }
